@@ -17,5 +17,6 @@ May throw an exception on line 119 on some hosting configurations. Simply commen
 ## Contributors
 Thanks both Mirko (bulli1979) and Christian (guedeWebGate) for their help in developing this add-on.
 Updated to latest API version by Jeff Paetkau Dec 2022
+Now Updated to latest API version by Adeel Azhar October 2025
 Also, I would like to thank Ryan (Mesuva) for the review.
 Thanks guys for your input and guidance!
